@@ -1,0 +1,8 @@
+C:\Users\natha\source\repos\Churrascaria\Churrascaria\bin\Debug\Churrascaria.exe.config
+C:\Users\natha\source\repos\Churrascaria\Churrascaria\bin\Debug\Churrascaria.exe
+C:\Users\natha\source\repos\Churrascaria\Churrascaria\bin\Debug\Churrascaria.pdb
+C:\Users\natha\source\repos\Churrascaria\Churrascaria\obj\Debug\Churrascaria.csproj.AssemblyReference.cache
+C:\Users\natha\source\repos\Churrascaria\Churrascaria\obj\Debug\Churrascaria.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\Churrascaria\Churrascaria\obj\Debug\Churrascaria.exe
+C:\Users\natha\source\repos\Churrascaria\Churrascaria\obj\Debug\Churrascaria.pdb
+C:\Users\natha\source\repos\Churrascaria\Churrascaria\obj\Debug\Churrascaria.exe.config
