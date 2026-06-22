@@ -48,7 +48,7 @@ namespace Churrascaria
         static void ExibirMenu()
         {
             Console.WriteLine("\n=============================");
-            Console.WriteLine("====CHURRASCARIA--DO--ZÉZÃO====");
+            Console.WriteLine("====CHURRASCARIA====");
             Console.WriteLine("[1] Novo Pedido ");
             Console.WriteLine("[2] Adicionar Item ao Pedido");
             Console.WriteLine("[3] Listar Pedidos");
